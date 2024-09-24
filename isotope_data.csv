@@ -1,0 +1,146 @@
+Tissue;Species;Site;Year;Season;Nest ID;Age;d13C;d15N;Source;C:N
+blood;striated caracara;franklin;2014;summer;pau19;fledgeling;-22.1;10.5;Balza et al. 2020;3.4
+blood;striated caracara;franklin;2014;summer;pau19;fledgeling;-21.9;10.5;Balza et al. 2020;3.3
+blood;striated caracara;franklin;2014;summer;pau04;fledgeling;-21.8;10.1;Balza et al. 2020;3.4
+blood;striated caracara;franklin;2014;summer;pau20;fledgeling;-21.7;10.3;Balza et al. 2020;3.3
+blood;striated caracara;franklin;2014;summer;pau05;fledgeling;-21.7;10.5;Balza et al. 2020;3.3
+blood;striated caracara;franklin;2014;summer;pau09;fledgeling;-21.6;10.3;Balza et al. 2020;3.3
+blood;striated caracara;franklin;2014;summer;pau20;fledgeling;-21.6;10.3;Balza et al. 2020;3.3
+blood;striated caracara;franklin;2014;summer;pau09;fledgeling;-21.5;10.3;Balza et al. 2020;3.3
+blood;striated caracara;franklin;2014;summer;pau04;fledgeling;-21.4;10;Balza et al. 2020;3.3
+blood;striated caracara;franklin;2014;summer;pau10;fledgeling;-21;10.3;Balza et al. 2020;3.3
+blood;striated caracara;franklin;2014;summer;pau01;fledgeling;-20.8;11.4;Balza et al. 2020;3.2
+blood;striated caracara;franklin;2014;summer;pau08;fledgeling;-20.5;11.1;Balza et al. 2020;3.3
+blood;striated caracara;franklin;2014;summer;pau09;fledgeling;-18;14.9;Balza et al. 2020;3.3
+feather;goose;observatorio;2016;summer;;fledgeling;-22.3;13.6;This study;3.2
+blood;striated caracara;franklin;2016;summer;pau05;fledgeling;-22.1;9.8;Balza et al. 2020;3.3
+blood;striated caracara;franklin;2016;summer;pau09;fledgeling;-21.8;10;Balza et al. 2020;3.3
+blood;striated caracara;franklin;2016;summer;pau09;fledgeling;-21.6;9.8;Balza et al. 2020;3.3
+blood;striated caracara;franklin;2016;summer;pau22;fledgeling;-21.6;10;Balza et al. 2020;3.3
+blood;striated caracara;franklin;2016;summer;pau27;fledgeling;-21.5;9.6;Balza et al. 2020;3.3
+blood;striated caracara;franklin;2016;summer;pau27;fledgeling;-21.5;10;Balza et al. 2020;3.2
+blood;striated caracara;franklin;2016;summer;pau08;fledgeling;-21.3;10.1;Balza et al. 2020;3.2
+blood;striated caracara;franklin;2016;summer;pau14;fledgeling;-21.2;9.6;Balza et al. 2020;3.4
+blood;striated caracara;franklin;2016;summer;pau23;fledgeling;-20.9;11;Balza et al. 2020;3.4
+blood;striated caracara;franklin;2016;summer;pau23;fledgeling;-20.8;11.2;Balza et al. 2020;3.2
+blood;striated caracara;franklin;2016;summer;pau10;fledgeling;-20.5;11.1;Balza et al. 2020;3.3
+blood;striated caracara;franklin;2016;summer;pau10;fledgeling;-20.4;11.1;Balza et al. 2020;3.3
+blood;magellanic penguin;observatorio;2016;summer;;fledgeling;-18.4;13.4;Dodino et al. 2022;3.3
+blood;magellanic penguin;observatorio;2016;summer;;fledgeling;-18.4;13.5;Dodino et al. 2022;3.4
+blood;magellanic penguin;observatorio;2016;summer;;fledgeling;-18.3;13.3;Dodino et al. 2022;3.3
+blood;magellanic penguin;observatorio;2016;summer;;fledgeling;-18.3;13.3;Dodino et al. 2022;3.3
+blood;magellanic penguin;observatorio;2016;summer;;fledgeling;-18.2;13.1;Dodino et al. 2022;3.3
+blood;magellanic penguin;observatorio;2016;summer;;fledgeling;-18.2;13.5;Dodino et al. 2022;3.3
+blood;magellanic penguin;observatorio;2016;summer;;adult;-18.2;14.3;Dodino et al. 2022;3.2
+blood;magellanic penguin;observatorio;2016;summer;;adult;-18.2;14.5;Dodino et al. 2022;3.2
+blood;magellanic penguin;observatorio;2016;summer;;fledgeling;-18.1;13.2;Dodino et al. 2022;3.3
+blood;magellanic penguin;observatorio;2016;summer;;fledgeling;-18.1;13.2;Dodino et al. 2022;3.2
+blood;magellanic penguin;observatorio;2016;summer;;fledgeling;-18.1;13.3;Dodino et al. 2022;3.3
+blood;magellanic penguin;observatorio;2016;summer;;adult;-18.1;14.1;Dodino et al. 2022;3.3
+blood;magellanic penguin;observatorio;2016;summer;;adult;-18.1;14.9;Dodino et al. 2022;3.2
+blood;magellanic penguin;observatorio;2016;summer;;fledgeling;-18;13;Dodino et al. 2022;3.3
+blood;magellanic penguin;observatorio;2016;summer;;fledgeling;-18;13.2;Dodino et al. 2022;3.2
+blood;magellanic penguin;observatorio;2016;summer;;fledgeling;-18;13.4;Dodino et al. 2022;3.2
+blood;magellanic penguin;observatorio;2016;summer;;fledgeling;-18;13.5;Dodino et al. 2022;3.2
+blood;magellanic penguin;observatorio;2016;summer;;adult;-18;14.3;Dodino et al. 2022;3.3
+blood;magellanic penguin;observatorio;2016;summer;;adult;-18;14.4;Dodino et al. 2022;3.2
+blood;magellanic penguin;observatorio;2016;summer;;adult;-18;14.5;Dodino et al. 2022;3.2
+blood;magellanic penguin;observatorio;2016;summer;;adult;-18;14.5;Dodino et al. 2022;3.2
+blood;magellanic penguin;observatorio;2016;summer;;adult;-18;14.7;Dodino et al. 2022;3.2
+blood;magellanic penguin;observatorio;2016;summer;;fledgeling;-17.9;13.5;Dodino et al. 2022;3.2
+blood;magellanic penguin;observatorio;2016;summer;;adult;-17.7;14.6;Dodino et al. 2022;3.2
+feather;imperial shag;observatorio;2016;summer;;adult;-16.8;16.4;This study;3.3
+hair;rat;observatorio;2017;winter;;adult;-21.2;28;This study;3.1
+blood;striated caracara;franklin;2017;summer;pau09;fledgeling;-20.6;11.5;Balza et al. 2020;3.4
+blood;striated caracara;franklin;2017;summer;pau09;fledgeling;-20.4;11.8;Balza et al. 2020;3.3
+blood;striated caracara;franklin;2017;summer;pau23;fledgeling;-20.3;11.3;Balza et al. 2020;3.3
+blood;striated caracara;franklin;2017;summer;pau22;fledgeling;-20.3;11.8;Balza et al. 2020;3.4
+blood;striated caracara;franklin;2017;summer;pau34;fledgeling;-20.3;12;Balza et al. 2020;3.3
+blood;striated caracara;franklin;2017;summer;pau23;fledgeling;-20.2;11.4;Balza et al. 2020;3.4
+blood;striated caracara;franklin;2017;summer;pau10;fledgeling;-20.2;12.2;Balza et al. 2020;3.3
+blood;striated caracara;franklin;2017;summer;pau34;fledgeling;-20.1;11.2;Balza et al. 2020;3.3
+blood;striated caracara;franklin;2017;summer;pau10;fledgeling;-20.1;12.1;Balza et al. 2020;3.3
+blood;striated caracara;franklin;2017;summer;pau04;fledgeling;-20;11.2;Balza et al. 2020;3.3
+blood;striated caracara;franklin;2017;summer;pau09;fledgeling;-20;11.7;Balza et al. 2020;3.3
+blood;striated caracara;franklin;2017;summer;pau32;fledgeling;-19.7;11.9;Balza et al. 2020;3.3
+blood;striated caracara;franklin;2017;summer;pau32;fledgeling;-19.6;11.7;Balza et al. 2020;3.3
+blood;striated caracara;franklin;2017;summer;pau29;fledgeling;-19.5;12.3;Balza et al. 2020;3.3
+blood;striated caracara;franklin;2017;summer;pau35;fledgeling;-19.3;12.3;Balza et al. 2020;3.3
+blood;striated caracara;franklin;2017;summer;pau29;fledgeling;-19.3;12.3;Balza et al. 2020;3.5
+blood;striated caracara;franklin;2017;summer;pau33;fledgeling;-18.9;12.2;Balza et al. 2020;3.2
+blood;striated caracara;franklin;2017;summer;pau35;fledgeling;-18.9;12.4;Balza et al. 2020;3.2
+muscle;mussel;franklin;2017;summer;;adult;-15.1;10.2;Balza et al. 2020;3.2
+muscle;mussel;franklin;2017;summer;;adult;-14.7;10.6;Balza et al. 2020;3.1
+muscle;mussel;franklin;2017;summer;;adult;-14.6;11.5;Balza et al. 2020;3.2
+muscle;mussel;franklin;2017;summer;;adult;-14.5;10.6;Balza et al. 2020;3.3
+muscle;mussel;franklin;2017;summer;;adult;-14.3;11.3;Balza et al. 2020;3.2
+muscle;goose;franklin;2018;summer;;fledgeling;-33.7;12.9;Balza et al. 2020;4.7
+muscle;goose;franklin;2018;summer;;adult;-27.1;11.5;Balza et al. 2020;3
+muscle;Chuanisín mouse;franklin;2018;summer;;adult;-25.2;4.7;Balza et al. 2020;3.2
+muscle;red deer;franklin;2018;summer;;adult;-25;1.2;Balza et al. 2020;2.7
+muscle;red deer;franklin;2018;summer;;adult;-25;9.5;Balza et al. 2020;2.8
+muscle;Chuanisín mouse;franklin;2018;summer;;adult;-25;2.4;Balza et al. 2020;3.2
+muscle;red deer;franklin;2018;summer;;adult;-24.8;3;Balza et al. 2020;2.7
+muscle;feral goat;franklin;2018;summer;;adult;-24.7;3.3;Balza et al. 2020;2.8
+muscle;rockhopper penguin;franklin;2018;summer;;fledgeling;-23.4;9;Balza et al. 2020;4.1
+muscle;rockhopper penguin;franklin;2018;summer;;adult;-23.1;7.9;Balza et al. 2020;3.2
+muscle;rat;franklin;2018;summer;;adult;-23.1;7.2;Balza et al. 2020;3.7
+muscle;rockhopper penguin;franklin;2018;summer;;fledgeling;-23;8.7;Balza et al. 2020;3.8
+muscle;rockhopper penguin;franklin;2018;summer;;adult;-22.7;8.1;Balza et al. 2020;3.4
+muscle;rockhopper penguin;franklin;2018;summer;;fledgeling;-22.3;8.7;Balza et al. 2020;3.6
+muscle;rockhopper penguin;franklin;2018;summer;;fledgeling;-22.1;10.2;Balza et al. 2020;3.6
+muscle;rockhopper penguin;franklin;2018;summer;;fledgeling;-22;10.3;Balza et al. 2020;3.1
+muscle;rockhopper penguin;franklin;2018;summer;;fledgeling;-21.7;9.9;Balza et al. 2020;3.5
+muscle;rockhopper penguin;franklin;2018;summer;;fledgeling;-21.3;9.4;Balza et al. 2020;3.2
+muscle;rat;franklin;2018;summer;;adult;-21.3;6.4;Balza et al. 2020;3.6
+muscle;Chuanisín mouse;franklin;2018;summer;;adult;-21.3;7.1;Balza et al. 2020;3.4
+muscle;rockhopper penguin;franklin;2018;summer;;fledgeling;-21.2;10.4;Balza et al. 2020;3.3
+muscle;rockhopper penguin;franklin;2018;summer;;fledgeling;-20.4;10.4;Balza et al. 2020;3.4
+muscle;rockhopper penguin;franklin;2018;summer;;fledgeling;-20.4;12.7;Balza et al. 2020;3.2
+muscle;rockhopper penguin;franklin;2018;summer;;fledgeling;-18.7;13.3;Balza et al. 2020;3.4
+muscle;imperial shag;franklin;2018;summer;;fledgeling;-17.2;13.2;Balza et al. 2020;3.3
+muscle;imperial shag;franklin;2018;summer;;fledgeling;-17.2;15.4;Balza et al. 2020;4
+muscle;imperial shag;franklin;2018;summer;;fledgeling;-17;15.2;Balza et al. 2020;3.5
+muscle;imperial shag;franklin;2018;summer;;fledgeling;-16.5;15.8;Balza et al. 2020;3.3
+muscle;imperial shag;franklin;2018;summer;;fledgeling;-16.4;14.8;Balza et al. 2020;3.2
+muscle;imperial shag;franklin;2018;summer;;fledgeling;-16.3;14;Balza et al. 2020;3.2
+muscle;rat;franklin;2018;summer;;adult;-15.1;14.9;Balza et al. 2020;3.1
+muscle;goose;observatorio;2021;summer;;fledgeling;-26;17.7;This study;3.3
+hair;rabbit;observatorio;2021;summer;;adult;-25.2;34.6;This study;3.2
+skin;rabbit;observatorio;2021;summer;;adult;-24.3;36.9;This study;3.9
+blood;striated caracara;observatorio;2021;summer;pau107;fledgeling;-23;19.6;This study;3.4
+skin;rabbit;observatorio;2021;summer;;adult;-22.9;31;This study;3.8
+blood;striated caracara;observatorio;2021;summer;pau105;fledgeling;-22.5;21.4;This study;3.4
+blood;striated caracara;observatorio;2021;summer;pau106;fledgeling;-21.4;19.9;This study;3.3
+blood;striated caracara;observatorio;2021;summer;pau112;fledgeling;-20.9;19.7;This study;3.3
+blood;striated caracara;observatorio;2021;summer;pau104;fledgeling;-20;17.6;This study;3.4
+blood;striated caracara;observatorio;2021;summer;pau121;fledgeling;-19.8;17.2;This study;3.4
+blood;striated caracara;observatorio;2021;summer;pau120;fledgeling;-19.8;18.4;This study;3.3
+blood;striated caracara;observatorio;2021;summer;pau116.2;fledgeling;-19.7;18.2;This study;3.3
+blood;striated caracara;observatorio;2021;summer;pau116.1;fledgeling;-19.6;18;This study;3.3
+blood;striated caracara;observatorio;2021;summer;pau101;fledgeling;-19.6;19.2;This study;3.3
+blood;striated caracara;observatorio;2021;summer;pau124.1;fledgeling;-19.6;20.5;This study;3.3
+muscle;fish;observatorio;2021;summer;;unknown;-19.6;14.2;This study;3.3
+blood;striated caracara;observatorio;2021;summer;pau115;fledgeling;-19.3;18.3;This study;3.4
+blood;striated caracara;observatorio;2021;summer;pau124.2;fledgeling;-19.2;20.6;This study;3.3
+blood;striated caracara;observatorio;2021;summer;pau119.2;fledgeling;-19.1;16.3;This study;3.3
+blood;striated caracara;observatorio;2021;summer;pau119.1;fledgeling;-19.1;17.9;This study;3.3
+muscle;squid;observatorio;2021;summer;;unknown;-18.8;12.7;This study;4
+blood;striated caracara;observatorio;2021;summer;pau122;fledgeling;-18.7;17.8;This study;3.4
+blood;magellanic penguin;observatorio;2021;summer;;adult;-18.7;15.2;This study;3.3
+feces;sea lion;observatorio;2021;summer;;adult;-18.6;15;This study;4.9
+muscle;magellanic penguin;observatorio;2021;summer;;fledgeling;-18.6;12.9;This study;3.5
+blood;striated caracara;observatorio;2021;summer;pau118;fledgeling;-18.5;17.6;This study;3.3
+blood;magellanic penguin;observatorio;2021;summer;;adult;-18.5;15.1;This study;3.3
+blood;magellanic penguin;observatorio;2021;summer;;adult;-18.5;15.3;This study;3.3
+blood;magellanic penguin;observatorio;2021;summer;;adult;-18.5;15.8;This study;3.3
+feces;sea lion;observatorio;2021;summer;;adult;-18.4;14.7;This study;4.3
+muscle;magellanic penguin;observatorio;2021;summer;;fledgeling;-18.4;13.1;This study;3.6
+blood;magellanic penguin;observatorio;2021;summer;;adult;-18.3;15.7;This study;3.3
+blood;magellanic penguin;observatorio;2021;summer;;adult;-18.2;15.2;This study;3.3
+blood;magellanic penguin;observatorio;2021;summer;;adult;-18.1;15.6;This study;3.3
+blood;magellanic penguin;observatorio;2021;summer;;adult;-17.6;15.5;This study;3.3
+blood;magellanic penguin;observatorio;2021;summer;;adult;-17.6;15.8;This study;3.3
+muscle;mussel;observatorio;2021;summer;;adult;-17.4;11;This study;3.3
+muscle;mussel;observatorio;2021;summer;;adult;-16.7;11;This study;3.3
+muscle;mussel;observatorio;2021;summer;;adult;-16.6;12.1;This study;3.3
